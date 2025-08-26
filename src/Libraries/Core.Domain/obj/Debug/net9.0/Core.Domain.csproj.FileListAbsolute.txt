@@ -1,0 +1,11 @@
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Domain\bin\Debug\net9.0\Core.Domain.deps.json
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Domain\bin\Debug\net9.0\Core.Domain.dll
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Domain\bin\Debug\net9.0\Core.Domain.pdb
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Domain\obj\Debug\net9.0\Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Domain\obj\Debug\net9.0\Core.Domain.AssemblyInfoInputs.cache
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Domain\obj\Debug\net9.0\Core.Domain.AssemblyInfo.cs
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Domain\obj\Debug\net9.0\Core.Domain.csproj.CoreCompileInputs.cache
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Domain\obj\Debug\net9.0\Core.Domain.dll
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Domain\obj\Debug\net9.0\refint\Core.Domain.dll
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Domain\obj\Debug\net9.0\Core.Domain.pdb
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Domain\obj\Debug\net9.0\ref\Core.Domain.dll

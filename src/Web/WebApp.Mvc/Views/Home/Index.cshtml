@@ -1,0 +1,30 @@
+﻿@model List<WebApp.Mvc.Controllers.HomeController.MovieVm>
+<h1>Catálogo de Filmes</h1>
+
+<form method="get">
+  <input type="text" name="q" placeholder="Buscar..." />
+  <button type="submit">Pesquisar</button>
+</form>
+
+<table>
+  <thead><tr><th>Título</th><th>Ano</th><th>Ações</th></tr></thead>
+  <tbody>
+  @for (int i = 0; i < Model.Count; i++)
+  {
+    var m = Model[i];
+    <tr>
+      <td>@m.title</td>
+      <td>@m.year</td>
+      <td>
+        <form method="post" asp-action="Rent">
+          <input type="hidden" name="movieId" value="@i" />
+          <input type="hidden" name="title" value="@m.title" />
+          <input type="text" name="customer" placeholder="Seu nome" required />
+          <input type="number" name="days" value="3" min="1" />
+          <button type="submit">Alugar</button>
+        </form>
+      </td>
+    </tr>
+  }
+  </tbody>
+</table>

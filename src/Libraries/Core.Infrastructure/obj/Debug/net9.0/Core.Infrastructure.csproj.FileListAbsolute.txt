@@ -1,0 +1,17 @@
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\bin\Debug\net9.0\Core.Infrastructure.deps.json
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\bin\Debug\net9.0\Core.Infrastructure.runtimeconfig.json
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\bin\Debug\net9.0\Core.Infrastructure.dll
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\bin\Debug\net9.0\Core.Infrastructure.pdb
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\bin\Debug\net9.0\Core.Domain.dll
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\bin\Debug\net9.0\Core.Domain.pdb
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\obj\Debug\net9.0\Core.Infrastructure.csproj.AssemblyReference.cache
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\obj\Debug\net9.0\Core.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\obj\Debug\net9.0\Core.Infrastructure.AssemblyInfoInputs.cache
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\obj\Debug\net9.0\Core.Infrastructure.AssemblyInfo.cs
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\obj\Debug\net9.0\Core.Infrastructure.csproj.CoreCompileInputs.cache
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\obj\Debug\net9.0\Core.Inf.F45230EC.Up2Date
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\obj\Debug\net9.0\Core.Infrastructure.dll
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\obj\Debug\net9.0\refint\Core.Infrastructure.dll
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\obj\Debug\net9.0\Core.Infrastructure.pdb
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\obj\Debug\net9.0\Core.Infrastructure.genruntimeconfig.cache
+D:\FIAP 2°ANO\ADVANCED BUSINESS DEVELOPMENT WITH.NET\Atividades\Semestre2\checkpoint\MovieRentals\src\Libraries\Core.Infrastructure\obj\Debug\net9.0\ref\Core.Infrastructure.dll
