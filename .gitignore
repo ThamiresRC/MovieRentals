@@ -1,0 +1,20 @@
+# Build
+bin/
+obj/
+
+# User-specific
+*.user
+*.vspscc
+*.suo
+*.vscode/
+*.idea/
+
+# Logs
+*.log
+
+# Secrets
+appsettings.*.json
+!appsettings.Development.json
+
+# EF Migrations (apenas se quiser esconder binários)
+**/Migrations/*.Designer.cs
